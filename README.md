@@ -1,5 +1,8 @@
 # Scrier
-Discord bot that announces a user's joining a channel with a user-specified audio clip
+
+A scrier, in fantasy and folklore, is one who can see beyond the limitations of thier eyes and circumstance - often through the use of a scrying tool like a crystal ball.
+
+This Scrier is a Discord bot that announces a user's joining a channel with that user's specified audio clip. It does this so users that are already in the channel don't need to ask "Who's that?".
 
 Scrier is an overhaul / rework of a proof-of-concept Discord bot I wrote a while back. The original ("IntroBot") was much clunkier to use, had less readable code, and was instable.
 
