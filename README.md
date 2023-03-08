@@ -1,7 +1,8 @@
 # Scrier
 Discord bot that announces a user's joining a channel with a user-specified audio clip
 
-Scrier is an overhaul / rework of a proof-of-concept Discord bot I wrote a while back. The original ("IntroBot") was much clunkier to use, had less readable code, was instable.
+Scrier is an overhaul / rework of a proof-of-concept Discord bot I wrote a while back. The original ("IntroBot") was much clunkier to use, had less readable code, and was instable.
+
 Most importantly, IntroBot used the now-defunct discord.py libary. All of the above shortcomings have been corrected by Scrier, which now uses nextcord.
 
 -----------------------------------------------
