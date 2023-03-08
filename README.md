@@ -11,7 +11,7 @@ REQUIREMENTS
   - nextcord
   - yt_dlp
   
-Included in Python's Standard Library
+Included in Python's Standard Library:
   - asyncio
   - math
   - os
