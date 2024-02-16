@@ -1,3 +1,5 @@
+# Note: Scrier is defunct now. Discord integrated the ability to play intro audio clips natively, without the need to invite a bot to your server. Thank you to all my friends who used Scrier while it was required for intro functionality.
+
 # Scrier
 
 A scrier, in fantasy and folklore, is one who can see beyond the limitations of thier eyes and circumstance - often through the use of a scrying tool like a crystal ball.
